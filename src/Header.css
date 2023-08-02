@@ -63,3 +63,20 @@
     margin-right: 10px;
     color:white;
 }
+.header__searchPlaceholder {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+    color: #767676;
+    font-weight: 600; /* Add the desired styles, such as font-weight: bold; */
+  }
+  
+  .header__search {
+    position: relative;
+  }
+  
+  
+  
+  
+  

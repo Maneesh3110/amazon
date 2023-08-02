@@ -26,7 +26,8 @@ function Header() {
         <div
         className='header__search'>
             <input className='header__searchInput'
-            type='text'></input>
+            type='text' placeholder=''></input>
+            <div className='header__searchPlaceholder'>Search in Amazon.in</div>
             <SearchIcon className='header__Icon'></SearchIcon>
         </div>
         <div className='header__nav'>
