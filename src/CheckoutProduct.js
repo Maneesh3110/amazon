@@ -18,8 +18,8 @@ function CheckoutProduct(props) {
             <p className='checkoutProduct__title'>{title}
             </p>
             <p className='checkoutProduct__price'>
-                <small>$</small>
-                <strong>{price}</strong>
+                <small>₹</small>
+                <strong>{price.toLocaleString()}</strong>
             </p>
             <div className='checkoutProduct__rating'>
             {Array(rating).fill().map((_,i) => (

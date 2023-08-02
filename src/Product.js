@@ -30,8 +30,8 @@ function Product({ id,title, image, price, rating }) {
       <div className='product__info'>
         <p>{title}</p>
         <p className='product__price'>
-          <small>$</small>
-          <strong>{price}</strong>
+          <small>₹</small>
+          <strong>{price.toLocaleString()}</strong>
         </p>
         <div className='product__rating'>
           {renderRating()}

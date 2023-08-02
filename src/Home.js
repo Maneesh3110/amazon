@@ -13,14 +13,14 @@ function Home() {
                 <Product
                 id = "12345"
                 title="Armani Exchange Mens Hampton Stainless Steel Analogue Watch with Bracelet (Black_Free Size)"
-                price={29.9}
+                price={16000}
                 image="https://m.media-amazon.com/images/I/71wj9B26IRL._AC_SY350_.jpg"
                 rating ={5}
                 />
                 <Product
                 id = "12334"
                     title="Apple 2023 MacBook Pro Laptop M2 Pro chip with 12‑core CPU and 19‑core GPU: 33.74 cm (14.2-inch), 16GB Unified Memory, 1TB SSD Storage. Works with iPhone/iPad; Silver"
-                    price={2500}
+                    price={250000}
                     image="https://m.media-amazon.com/images/I/618gNo+ohxL._AC_UY436_FMwebp_QL65_.jpg"
                     rating={5}
                 />
@@ -30,21 +30,21 @@ function Home() {
              <Product
                     id = "123445"
                     title="Apple 2023 MacBook Pro Laptop M2 Pro chip with 12‑core CPU and 19‑core GPU: 33.74 cm (14.2-inch), 16GB Unified Memory, 1TB SSD Storage. Works with iPhone/iPad; Silver"
-                    price={2500}
+                    price={25000}
                     image="https://m.media-amazon.com/images/I/618gNo+ohxL._AC_UY436_FMwebp_QL65_.jpg"
                     rating={5}
                 />
                 <Product
                     id = "123245"
                     title="All-New Echo Dot (5th Gen, 2023 release) | Smart speaker with Bigger sound, Motion Detection, Temperature Sensor, Alexa and Bluetooth| Blue"
-                    price={250}
+                    price={3500}
                     image="https://m.media-amazon.com/images/I/71cV-ickxOL._AC_UY436_FMwebp_QL65_.jpg"
                     rating={5}
                 />
                 <Product
                     id = "53345"
                     title="Emporio Armani Giovanni Analog Black Dial Men's Watch-AR11349"
-                    price={500}
+                    price={15000}
                     image="https://m.media-amazon.com/images/I/61RnYP3i2TL._UX679_.jpg"
                     rating={5}
                 />
@@ -53,7 +53,7 @@ function Home() {
              <Product
                     id = "123425"
                     title="Apple iPhone 14 Pro Max (128 GB) - Space Black"
-                    price={1199}
+                    price={119900}
                     image="https://m.media-amazon.com/images/I/610pghkO81L._SL1500_.jpg"
                     rating={5}
                 />
